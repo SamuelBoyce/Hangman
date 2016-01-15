@@ -17,22 +17,22 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hangman_Gallows.png" translatesAutoresizingMaskIntoConstraints="NO" id="Cy2-IV-q7o">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hangman_Gallows" translatesAutoresizingMaskIntoConstraints="NO" id="Cy2-IV-q7o">
                                 <rect key="frame" x="-19" y="0.0" width="420" height="407"/>
                             </imageView>
-                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hangman_Appendage.png" translatesAutoresizingMaskIntoConstraints="NO" id="ExW-pT-d9V" userLabel="Body">
+                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hangman_Appendage" translatesAutoresizingMaskIntoConstraints="NO" id="ExW-pT-d9V" userLabel="Body">
                                 <rect key="frame" x="161" y="160" width="37" height="128"/>
                             </imageView>
-                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hangman_Appendage.png" translatesAutoresizingMaskIntoConstraints="NO" id="7fa-Ka-LfF" userLabel="Leg_Left">
+                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hangman_Appendage" translatesAutoresizingMaskIntoConstraints="NO" id="7fa-Ka-LfF" userLabel="Leg_Left">
                                 <rect key="frame" x="150" y="287" width="34" height="105"/>
                             </imageView>
-                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hangman_Appendage.png" translatesAutoresizingMaskIntoConstraints="NO" id="Eu9-Vt-bR8" userLabel="Leg_Right">
+                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hangman_Appendage" translatesAutoresizingMaskIntoConstraints="NO" id="Eu9-Vt-bR8" userLabel="Leg_Right">
                                 <rect key="frame" x="176" y="287" width="34" height="105"/>
                             </imageView>
-                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hangman_Arm.png" translatesAutoresizingMaskIntoConstraints="NO" id="lu7-O1-8jh" userLabel="Arm_Right">
+                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hangman_Arm" translatesAutoresizingMaskIntoConstraints="NO" id="lu7-O1-8jh" userLabel="Arm_Right">
                                 <rect key="frame" x="192" y="174" width="88" height="43"/>
                             </imageView>
-                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hangman_Arm.png" translatesAutoresizingMaskIntoConstraints="NO" id="90A-lG-bBF" userLabel="Arm_Left">
+                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Hangman_Arm" translatesAutoresizingMaskIntoConstraints="NO" id="90A-lG-bBF" userLabel="Arm_Left">
                                 <rect key="frame" x="81" y="174" width="88" height="43"/>
                             </imageView>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="plF-xe-u2g">
@@ -90,8 +90,8 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Hangman_Appendage.png" width="17" height="60"/>
-        <image name="Hangman_Arm.png" width="60" height="17"/>
-        <image name="Hangman_Gallows.png" width="251" height="201"/>
+        <image name="Hangman_Appendage" width="17" height="60"/>
+        <image name="Hangman_Arm" width="60" height="17"/>
+        <image name="Hangman_Gallows" width="251" height="201"/>
     </resources>
 </document>
