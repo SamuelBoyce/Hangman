@@ -43,9 +43,9 @@
 		0657B70F1C46E2CC004716AA /* HangmanUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HangmanUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0657B7131C46E2CC004716AA /* HangmanUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HangmanUITests.m; sourceTree = "<group>"; };
 		0657B7151C46E2CC004716AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0657B71E1C46E32C004716AA /* Hangman_Gallows.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Hangman_Gallows.png; path = ../../Hangman_Gallows.png; sourceTree = "<group>"; };
-		0657B7201C46E48F004716AA /* Hangman_Appendage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Hangman_Appendage.png; path = ../../Hangman_Appendage.png; sourceTree = "<group>"; };
-		0657B7221C46E513004716AA /* Hangman_Arm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Hangman_Arm.png; path = ../../Hangman_Arm.png; sourceTree = "<group>"; };
+		0657B71E1C46E32C004716AA /* Hangman_Gallows.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hangman_Gallows.png; sourceTree = "<group>"; };
+		0657B7201C46E48F004716AA /* Hangman_Appendage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hangman_Appendage.png; sourceTree = "<group>"; };
+		0657B7221C46E513004716AA /* Hangman_Arm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hangman_Arm.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -414,6 +414,7 @@
 				0657B71A1C46E2CC004716AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0657B71B1C46E2CC004716AA /* Build configuration list for PBXNativeTarget "HangmanUITests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +423,7 @@
 				0657B71D1C46E2CC004716AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
